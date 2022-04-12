@@ -1,5 +1,5 @@
 {
-  "name": "jamesy-live2dapi",
+  "name": "jamesyao-live2dapi",
   "version": "1.0.6",
   "description": "看板娘模型资源文件",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "api",
     "assets"
   ],
-  "author": "JamesY-Jey",
+  "author": "jamesyao",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JamesY-Jey/live2d_api/issues"
